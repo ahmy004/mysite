@@ -1,0 +1,121 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66bfbf;
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+}
+
+h2 {
+  color: #66bfbf;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 30px;
+}
+.boy-pic {
+  height: 200px;
+  padding-top: 100px;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative ;
+  padding-top: 100px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+
+}
+.cod {
+  text-decoration: underline;
+}
+.top-cloud {
+  position: absolute;
+    right: 300px;
+    top: 40px ;
+
+}
+.coding-img {
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+.dota-img {
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+}
+.contact-me {
+  width: 40%;
+  margin: 10px auto 10px auto;
+}
+
+
+.skill-row {
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+hr {
+  border-color: grey;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 4%;
+  margin-top: 50px;
+}
+.skills {
+  padding-top: 50px;
+}
+a {
+  margin: 10px 20px;
+  text-decoration: none;
+  font-family: "Montserrat" ,sans-serif;
+  color: #11999e;
+}
+.myButton {
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+
+	border-radius:12px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:bold;
+	padding:15px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.85rem;
+}
